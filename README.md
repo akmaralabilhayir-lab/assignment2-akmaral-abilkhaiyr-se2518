@@ -73,15 +73,7 @@ java Main
 
 D) Screenshots
 
-
-<p> <img width="352" height="222" alt="image" src="https://github.com/user-attachments/assets/2e533e41-d0f4-4cb7-a394-b6ef0423486b" />
-
-<img width="327" height="230" alt="image" src="https://github.com/user-attachments/assets/7597da63-7212-4aaf-ab6f-2284b9f8c375" />
-
-<img width="336" height="243" alt="image" src="https://github.com/user-attachments/assets/48091a78-709a-46a1-96a1-f8b0f379b9b4" />
-
-
-
+<img width="890" height="747" alt="image" src="https://github.com/user-attachments/assets/c0270cf9-baf9-4e9b-bd43-3594ac697a4a" />
 
 
 E)Reflection
@@ -123,7 +115,9 @@ F)assignment2/
 
 
 G) Uml diagram
-<img width="954" height="504" alt="image" src="https://github.com/user-attachments/assets/e2cf24ab-6a99-4ffd-8f6d-ab14be4ca731" />
+
+<img width="991" height="545" alt="image" src="https://github.com/user-attachments/assets/02af8951-349a-411f-b6dc-ca602b23e016" />
+
 
 The UML class diagram was created using a UML diagram plugin that called Markdown.
 The diagram clearly shows:
